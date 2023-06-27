@@ -1,0 +1,40 @@
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.exe
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.dll.config
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.deps.json
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.runtimeconfig.json
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.pdb
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.Resources.resources
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.Overlay.resources
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.SettingsForm.resources
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\refint\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.pdb
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PingOverlay - Copy\PingOverlay\obj\Debug\net6.0-windows\ref\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.exe
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.dll.config
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.deps.json
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.runtimeconfig.json
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Debug\net6.0-windows\PingOverlay.pdb
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.Resources.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.Overlay.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.SettingsForm.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\refint\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.pdb
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\PingOverlay.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Debug\net6.0-windows\ref\PingOverlay.dll

@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.Resources.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.Overlay.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.SettingsForm.resources
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\obj\Release\netcoreapp3.0\PingOverlay.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.exe
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.dll
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.deps.json
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.runtimeconfig.json
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.dll.config
+C:\Users\Administrator\source\repos\PingOverlay\PingOverlay\bin\Release\net6.0-windows\publish\PingOverlay.pdb
